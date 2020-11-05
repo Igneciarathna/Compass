@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RathnaCompass</string>
+    <string name="reset">Reset</string>
+    <string name="todo">TODO</string>
+</resources>
